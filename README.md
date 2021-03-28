@@ -1,5 +1,5 @@
 # Text-randomizer.
-Little tool made in Python, used to randomize any .txt file.Cancel Changes
+Little tool made in Python, used to randomize any .txt file.
 
 This code looks like very overworked, it's because I added style (colors) and errors management.
 If you want to do it with less lines : 
